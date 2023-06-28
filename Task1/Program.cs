@@ -34,6 +34,5 @@ int Even_numbers(int[] arrayEv)
 
 int[] array = FillArray(10, 99, 999);
 PrintArray(array);
-
 int result= Even_numbers(array);
 System.Console.WriteLine(result);
